@@ -1,0 +1,12 @@
+E:\P1_parcial\inventoryliby\inventoryliby\bin\Debug\net8.0\inventoryliby.deps.json
+E:\P1_parcial\inventoryliby\inventoryliby\bin\Debug\net8.0\inventoryliby.dll
+E:\P1_parcial\inventoryliby\inventoryliby\bin\Debug\net8.0\inventoryliby.pdb
+E:\P1_parcial\inventoryliby\inventoryliby\obj\Debug\net8.0\inventoryliby.GeneratedMSBuildEditorConfig.editorconfig
+E:\P1_parcial\inventoryliby\inventoryliby\obj\Debug\net8.0\inventoryliby.AssemblyInfoInputs.cache
+E:\P1_parcial\inventoryliby\inventoryliby\obj\Debug\net8.0\inventoryliby.AssemblyInfo.cs
+E:\P1_parcial\inventoryliby\inventoryliby\obj\Debug\net8.0\inventoryliby.csproj.CoreCompileInputs.cache
+E:\P1_parcial\inventoryliby\inventoryliby\obj\Debug\net8.0\inventoryliby.sourcelink.json
+E:\P1_parcial\inventoryliby\inventoryliby\obj\Debug\net8.0\inventoryliby.dll
+E:\P1_parcial\inventoryliby\inventoryliby\obj\Debug\net8.0\refint\inventoryliby.dll
+E:\P1_parcial\inventoryliby\inventoryliby\obj\Debug\net8.0\inventoryliby.pdb
+E:\P1_parcial\inventoryliby\inventoryliby\obj\Debug\net8.0\ref\inventoryliby.dll

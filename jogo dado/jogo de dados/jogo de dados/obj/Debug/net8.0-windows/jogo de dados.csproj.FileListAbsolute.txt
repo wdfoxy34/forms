@@ -1,0 +1,17 @@
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\bin\Debug\net8.0-windows\jogo de dados.exe
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\bin\Debug\net8.0-windows\jogo de dados.deps.json
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\bin\Debug\net8.0-windows\jogo de dados.runtimeconfig.json
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\bin\Debug\net8.0-windows\jogo de dados.dll
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\bin\Debug\net8.0-windows\jogo de dados.pdb
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\obj\Debug\net8.0-windows\jogo_de_dados.Form1.resources
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\obj\Debug\net8.0-windows\jogo_de_dados.Properties.Resources.resources
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\obj\Debug\net8.0-windows\jogo de dados.csproj.GenerateResource.cache
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\obj\Debug\net8.0-windows\jogo de dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\obj\Debug\net8.0-windows\jogo de dados.AssemblyInfoInputs.cache
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\obj\Debug\net8.0-windows\jogo de dados.AssemblyInfo.cs
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\obj\Debug\net8.0-windows\jogo de dados.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\obj\Debug\net8.0-windows\jogo de dados.dll
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\obj\Debug\net8.0-windows\refint\jogo de dados.dll
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\obj\Debug\net8.0-windows\jogo de dados.pdb
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\obj\Debug\net8.0-windows\jogo de dados.genruntimeconfig.cache
+C:\Users\Aula\Downloads\miguel\jogo dado\jogo de dados\jogo de dados\obj\Debug\net8.0-windows\ref\jogo de dados.dll
